@@ -1,0 +1,12 @@
+HTTrack3.50-5 launched on Wed, 07 Oct 2026 00:05:52 at http://localhost/taprobane/index.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "en, *" http://localhost/taprobane/index.php -O1 "C:\My Web Sites\taprobane" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:07:44	Error: 	"Not Found" (404) at link localhost/taprobane/assets/img/TAPROBANE-LOGO.png (from localhost/taprobane/index.php)
+
+HTTrack Website Copier/3.50-5 mirror complete in 3 minutes 11 seconds : 57 links scanned, 55 files written (18490233 bytes overall) [18510207 bytes received at 96912 bytes/sec], 2.2 requests per connection
+(1 errors, 0 warnings, 0 messages)
